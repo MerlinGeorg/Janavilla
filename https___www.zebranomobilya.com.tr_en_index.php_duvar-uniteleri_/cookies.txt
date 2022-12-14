@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.zebranomobilya.com.tr	TRUE	/	FALSE	1999999999	__cfduid	d3754ca9400099ab14a0148ab2203de001583308817
+www.zebranomobilya.com.tr	TRUE	/	FALSE	1999999999	SameSite	Lax
+

@@ -1,0 +1,32 @@
+[17-Mar-2020 11:36:14 UTC] PHP Warning:  mail(): Invalid date.timezone value '“Asia/Kolkata”', we selected the timezone 'UTC' for now. in /home/nuevoinf/public_html/janavilla/contact_mail.php on line 66
+[18-Mar-2020 17:02:36 UTC] PHP Warning:  mail(): Invalid date.timezone value '“Asia/Kolkata”', we selected the timezone 'UTC' for now. in /home/nuevoinf/public_html/janavilla/contact_mail.php on line 66
+[18-Mar-2020 17:02:36 UTC] PHP Notice:  Undefined index: exampleInputname1 in /home/nuevoinf/public_html/janavilla/contact_mail.php on line 5
+[18-Mar-2020 17:02:36 UTC] PHP Notice:  Undefined index: exampleInputEmail1 in /home/nuevoinf/public_html/janavilla/contact_mail.php on line 7
+[18-Mar-2020 17:02:36 UTC] PHP Notice:  Undefined index: exampleInputphone1 in /home/nuevoinf/public_html/janavilla/contact_mail.php on line 8
+[18-Mar-2020 17:02:36 UTC] PHP Notice:  Undefined index: exampleInputQuery1 in /home/nuevoinf/public_html/janavilla/contact_mail.php on line 10
+[18-Mar-2020 17:02:36 UTC] PHP Warning:  mail(): Invalid date.timezone value '“Asia/Kolkata”', we selected the timezone 'UTC' for now. in /home/nuevoinf/public_html/janavilla/contact_mail.php on line 66
+[19-Mar-2020 11:53:13 UTC] PHP Notice:  Undefined index: subid in /home/nuevoinf/public_html/janavilla/subproducts.php on line 362
+[19-Mar-2020 11:53:13 UTC] PHP Notice:  Undefined index: subid in /home/nuevoinf/public_html/janavilla/subproducts.php on line 399
+[20-Mar-2020 10:36:40 UTC] PHP Warning:  mail(): Invalid date.timezone value '“Asia/Kolkata”', we selected the timezone 'UTC' for now. in /home/nuevoinf/public_html/janavilla/reg_form_mail.php on line 66
+[26-Mar-2020 09:50:31 UTC] PHP Notice:  Undefined index: sid in /home/nuevoinf/public_html/janavilla/store.php on line 10
+[27-Mar-2020 07:21:32 UTC] PHP Warning:  Use of undefined constant header - assumed 'header' (this will throw an Error in a future version of PHP) in /home/nuevoinf/public_html/janavilla/index.php on line 1
+[27-Mar-2020 07:21:32 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/nuevoinf/public_html/janavilla/index.php on line 1
+[27-Mar-2020 07:21:32 UTC] PHP Warning:  include(headerphp): failed to open stream: No such file or directory in /home/nuevoinf/public_html/janavilla/index.php on line 1
+[27-Mar-2020 07:21:32 UTC] PHP Warning:  include(): Failed opening 'headerphp' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nuevoinf/public_html/janavilla/index.php on line 1
+[27-Mar-2020 07:21:32 UTC] PHP Notice:  Undefined variable: db in /home/nuevoinf/public_html/janavilla/index.php on line 9
+[27-Mar-2020 07:21:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nuevoinf/public_html/janavilla/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nuevoinf/public_html/janavilla/index.php on line 9
+[27-Mar-2020 07:21:40 UTC] PHP Warning:  Use of undefined constant header - assumed 'header' (this will throw an Error in a future version of PHP) in /home/nuevoinf/public_html/janavilla/index.php on line 1
+[27-Mar-2020 07:21:40 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/nuevoinf/public_html/janavilla/index.php on line 1
+[27-Mar-2020 07:21:40 UTC] PHP Warning:  include(headerphp): failed to open stream: No such file or directory in /home/nuevoinf/public_html/janavilla/index.php on line 1
+[27-Mar-2020 07:21:40 UTC] PHP Warning:  include(): Failed opening 'headerphp' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nuevoinf/public_html/janavilla/index.php on line 1
+[27-Mar-2020 07:21:40 UTC] PHP Notice:  Undefined variable: db in /home/nuevoinf/public_html/janavilla/index.php on line 9
+[27-Mar-2020 07:21:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nuevoinf/public_html/janavilla/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nuevoinf/public_html/janavilla/index.php on line 9
+[27-Mar-2020 07:51:12 UTC] PHP Notice:  Undefined index: sid in /home/nuevoinf/public_html/janavilla/store.php on line 10
+[29-Mar-2020 10:03:28 UTC] PHP Notice:  Undefined index: subid in /home/nuevoinf/public_html/janavilla/projects.php on line 569
+[31-Mar-2020 11:36:38 UTC] PHP Notice:  Undefined index: nid in /home/nuevoinf/public_html/janavilla/news_single.php on line 6

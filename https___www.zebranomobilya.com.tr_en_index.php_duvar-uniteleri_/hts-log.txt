@@ -1,0 +1,33 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 04 Mar 2020 13:30:16 at https://www.zebranomobilya.com.tr/en/index.php/duvar-uniteleri/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.zebranomobilya.com.tr/en/index.php/duvar-uniteleri/ -O1 "C:\Users\Nuevo info\Desktop\janavilla\https___www.zebranomobilya.com.tr_en_index.php_duvar-uniteleri_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:31:29	Warning: 	File not parsed, looks like binary: https://www.zebranomobilya.com.tr/en/wp-content/plugins/revslider/public/assets/css/openhand.cur
+13:31:29	Warning: 	File not parsed, looks like binary: https://www.zebranomobilya.com.tr/en/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+13:31:29	Error: 	"Not Found" (404) at link https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/images/icons/view.png (from https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/style.css?ver=screen)
+13:31:29	Error: 	"Not Found" (404) at link https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/images/icons/magnifying_glass_alt_8x8.png (from https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/style.css?ver=screen)
+13:31:29	Error: 	"Not Found" (404) at link https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/images/icons/search_header.png (from https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/style.css?ver=screen)
+13:31:29	Error: 	"Not Found" (404) at link https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/images/icons/shopping_bag.png (from https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/style.css?ver=screen)
+13:31:29	Error: 	"Not Found" (404) at link https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/images/patterns/stripes_fine_tall.png (from https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/style.css?ver=screen)
+13:31:29	Error: 	"Not Found" (404) at link https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/images/dividers/stripes.png (from https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/style.css?ver=screen)
+13:31:29	Error: 	"Not Found" (404) at link https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/images/darkskin/dividers/stripes.png (from https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/style.css?ver=screen)
+13:31:29	Error: 	"Not Found" (404) at link https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/images/dividers/thin_fade.png (from https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/style.css?ver=screen)
+13:31:29	Error: 	"Not Found" (404) at link https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/images/darkskin/dividers/thin_fade.png (from https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/style.css?ver=screen)
+13:31:29	Error: 	"Not Found" (404) at link https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/images/dividers/threelines.png (from https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/style.css?ver=screen)
+13:31:29	Error: 	"Not Found" (404) at link https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/images/darkskin/dividers/threelines.png (from https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/style.css?ver=screen)
+13:31:29	Error: 	"Not Found" (404) at link https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/images/dividers/circleline.png (from https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/style.css?ver=screen)
+13:31:29	Error: 	"Not Found" (404) at link https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/images/darkskin/dividers/circleline.png (from https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/style.css?ver=screen)
+13:31:29	Error: 	"Not Found" (404) at link https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/images/dividers/stripedcenter.png (from https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/style.css?ver=screen)
+13:31:30	Error: 	"Not Found" (404) at link https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/images/darkskin/dividers/stripedcenter.png (from https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/style.css?ver=screen)
+13:31:30	Error: 	"Not Found" (404) at link https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/images/dividers/linedcenter.png (from https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/style.css?ver=screen)
+13:31:30	Error: 	"Not Found" (404) at link https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/images/darkskin/dividers/linedcenter.png (from https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/style.css?ver=screen)
+13:31:30	Error: 	"Not Found" (404) at link https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/images/icons/play-button.png (from https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/style.css?ver=screen)
+13:31:30	Error: 	"Not Found" (404) at link https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/images/icons/pause-button.png (from https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/style.css?ver=screen)
+13:31:30	Error: 	"Not Found" (404) at link https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/css/owlcarousel/owl.video.play.png (from https://www.zebranomobilya.com.tr/en/wp-content/themes/photonic/css/owlcarousel/owl.carousel.css?ver=4.6.17)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 14 seconds : 148 links scanned, 127 files written (8068812 bytes overall) [6389980 bytes received at 86351 bytes/sec], 2573984 bytes transferred using HTTP compression in 96 files, ratio 30%, 21.1 requests per connection
+(20 errors, 2 warnings, 0 messages)
